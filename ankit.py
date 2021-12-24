@@ -161,7 +161,7 @@ async def start_yukki():
             pass
 
     if smexxx:
-        session_name = str(smexxx)
+        session_name = str(smexxxx)
         print("String 3 Found")
         wdk = TelegramClient(StringSession(session_name), a, b)
         try:
